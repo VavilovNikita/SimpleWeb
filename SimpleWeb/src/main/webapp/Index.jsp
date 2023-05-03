@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Boosk</title>
+<title>Books</title>
 </head>
 <body>
 <h1>Books2s</h1>
