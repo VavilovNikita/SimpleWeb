@@ -8,7 +8,7 @@
 <title>Boosk</title>
 </head>
 <body>
-<h1>Books</h1>
+<h1>Bookss</h1>
 <%
 for(String name : DatabaseFasade.getBooks()){
 	out.println(name + "<br/>");
